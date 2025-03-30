@@ -5,5 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "serial>=0.0.97",
+    "netifaces>=0.11.0",
+    "psutil>=7.0.0",
+    "pyserial>=3.5",
 ]
